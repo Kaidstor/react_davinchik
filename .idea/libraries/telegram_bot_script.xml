@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="telegram bot script" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/public/temp.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/public/temp.js" />
+    </CLASSES>
+    <DOCUMENTATION>
+      <root url="https://telegram.org/js/telegram-web-app.js" />
+    </DOCUMENTATION>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
